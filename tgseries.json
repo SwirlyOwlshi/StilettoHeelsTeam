@@ -1,0 +1,57 @@
+{
+  "title": "The Gamesters",
+  "description": "The story begins in a 60-year-old high-class apartment building, where a millionaire named Grant lives. One day, the apartment's doorman Howard reaches out to Grant, telling him that he wants to save Erica from the building's sixth floor from a cult. At first Grant will have none of it, until Howard reveals to Grant that he has knowledge of one of Grant's secrets.",
+  "artist": "Ono Natsume",
+  "author": "Ono Natsume",
+  "cover": " https://imgur.com/a/e2hJx3I",
+  "chapters": {
+    "0": {
+      "title": "Chapter 0",
+      "volume": "1",
+      "groups": {
+        "Stiletto Heels Team": "/proxy/api/imgur/chapter/tg-czero-WdVKqWw/"
+      },
+      "last_updated": "1740566762"
+    },
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "Stiletto Heels Team": "/proxy/api/imgur/chapter/tg-1-kAQFHh1"
+      },
+      "last_updated": "1759380714"
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "groups": {
+        "Stiletto Heels Team": "Coming Soon"
+      },
+      "last_updated": "1626713100"
+    },
+    "3": {
+      "title": "Chapter 3",
+      "volume": "1",
+      "groups": {
+        "Stiletto Heels Team": "Coming Soon"
+      },
+      "last_updated": "1626713100"
+    },
+    "4": {
+      "title": "Chapter 4",
+      "volume": "1",
+      "groups": {
+        "Stiletto Heels Team": "Coming Soon"
+      },
+      "last_updated": "1626713100"
+    },
+    "5": {
+      "title": "Chapter 5",
+      "volume": "1",
+      "groups": {
+        "Stiletto Heels Team": "Coming Soon"
+      },
+      "last_updated": "1626713100"
+    }
+  }
+}
